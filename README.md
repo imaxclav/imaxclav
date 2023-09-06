@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👨‍💻 Maxime Clavel, B.Eng., CKAD
 
-<!--
-**imaxclav/imaxclav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello you!
 
-Here are some ideas to get you started:
+- 📚 Graduated Software Engineer (B. Eng.) from *[Polytechnique Montréal](https://www.polymtl.ca/)*
+- 📃 [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
+- 💻 Work
+  - 🛡️ *[Qohash](https://qohash.com/)* (Octobre 2022 - Current): Data Protection
+  - 🎮 *[Ubisoft Montréal](https://montreal.ubisoft.com/)* (March 2019 - July 2022): platform to deploy, allocate and (auto)scale dedicated game servers on multiple cloud providers
+- 🖤 Enjoy [Go (Golang)](https://go.dev/), Micro-services, [Kubernetes](https://kubernetes.io/), Cloud, Clean Code and to learn
+- 🇨🇦 French Canadian from *Quebec*, currently living in *British Columbia*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find my gists [here](https://gist.github.com/maxclav).
